@@ -13,8 +13,8 @@ h1 {
 h2 {
   font-size: 130%;
 }
-.guarantee {
-  border: black 1px solid;
+#guarantee {
+  border: white 1px dashed;
   background-color: #a7cece;
   padding: 25px 25px 25px 80px;
   margin: 30px 250px 30px 30px;
